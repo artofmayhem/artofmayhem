@@ -1,4 +1,4 @@
-## Hi My name is Tony! 
+## Hi My name is Tony! ##
 
 
 I'm a fullstack developer based in Honolulu. Welcome to my projects page. This is where some of my favorite projects that I've worked on are linked and discussed. There have been so many learnings along the way on my path to becoming a fantastic developer. 
@@ -9,7 +9,7 @@ I'm a fullstack developer based in Honolulu. Welcome to my projects page. This i
   [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
   
   
-  The current technologies that I utilize are: 
+ ### The current technologies that I utilize are: 
   React, React Native, Material UI, Storybook, Threejs, Drei, Gsap, Animejs, Axios, Bootstrap, Redux, React-Router, React-Thunk, andContext API on the Nodejs, Express, SQL custom hooks, router, styled components, and custom middleware on the backend. C# for game development
 
  
