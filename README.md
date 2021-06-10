@@ -21,7 +21,7 @@
 
 These are a few of my favorite deploys and their corresponding repository...
 
-### Anywhere Fitness Club - ## This was a four person team build. On this project I handle initial project set up, overall style and design, handling CRUD application for the signup, login, and form submission utilizing redux to manage state. I also pair coded the scaffolding with my partner to layout the initial redux so that we both understood the initial set up and where everything needed to be so that we could access the parts we needed to in full awareness of the layout. The site was built using react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe.
+### Anywhere Fitness Club -  This was a four person team build. On this project I handle initial project set up, overall style and design, handling CRUD application for the signup, login, and form submission utilizing redux to manage state. I also pair coded the scaffolding with my partner to layout the initial redux so that we both understood the initial set up and where everything needed to be so that we could access the parts we needed to in full awareness of the layout. The site was built using react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe.
 
 https://anywhere-fitness-club.vercel.app/
 
