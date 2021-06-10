@@ -13,7 +13,7 @@
   
  ### The current technologies that I utilize are: 
   React, React Native, Material UI, Storybook, Threejs, Drei, Gsap, Animejs, Axios, Bootstrap, Redux, React-Router, React-Thunk, andContext API on the Nodejs, Express, SQL custom hooks, router, styled components, and custom middleware on the backend. C# for game development
-
+###
  
 
 These are a few of my favorite deploys and their corresponding repository...
