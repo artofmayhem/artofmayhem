@@ -57,3 +57,7 @@ https://github.com/artofmayhem/sonvr-design
 
  https://lambdapizza.netlify.app
  https://github.com/artofmayhem/web-sprint-challenge-single-page-applications
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
+
+
