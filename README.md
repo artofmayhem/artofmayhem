@@ -39,26 +39,7 @@ https://adidasproductportal.vercel.app/
 https://github.com/artofmayhem/web-module-project-client-auth
 
 
-   Space Digest - This was my second shot at using the react hook useEffect to dig into an API. This site uses Space News API and renders articles in a random order or in a linear order from the server. I really took the time to learn more deeply about how to pull all of the information available on a server to render. I taught myself the search techniques over the course of about a month, slowly building while completing other projects. 
 
- https://spacedigest.netlify.app
- 
- https://github.com/artofmayhem/space-news-mirror/tree/master/src
- 
- 
- The Pulse - This app was built from scratch using create-react-app, while using bootstrap, material ui, react router, and Deezer music's api. The app allows user to choose from a daily created playlist, a weekly playlist and an artist spotlight playlist. I took this project as a timed challenge to see if I could find and hit an api, render the data and style it in 45 mins. I later came back and added my own graphic design features for the header and playlist buttons.
-
-https://thepulse.netlify.app
-
-https://github.com/artofmayhem/The-Pulse
-
-
- Syntech 3D - This particle animation uses threejs, drei, and react-three-fiber to create a ripple effect on a field of particles using sine as the formula to accomplish this. Bringing in Orbit controls from drei allows the user the contol the field. This is just a simple landing page idea but effective in it's usage of 3D animation.
- 
- https://syntech3d.netlify.app/
- 
- https://github.com/artofmayhem/particle-animation 
- 
  
 
  
