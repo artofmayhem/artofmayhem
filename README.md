@@ -9,7 +9,8 @@ I'm a fullstack developer based in Honolulu. Welcome to my projects page. This i
   [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
   
   
-  The current technologies that I utilize are: React, React Native, Material UI, Storybook, Threejs, Drei, Gsap, Animejs, Axios, Bootstrap, Redux, React-Router, React-Thunk, andContext API on the Nodejs, Express, SQL custom hooks, router, styled components, and custom middleware on the backend. C# for game development
+  The current technologies that I utilize are: 
+  React, React Native, Material UI, Storybook, Threejs, Drei, Gsap, Animejs, Axios, Bootstrap, Redux, React-Router, React-Thunk, andContext API on the Nodejs, Express, SQL custom hooks, router, styled components, and custom middleware on the backend. C# for game development
 
  
 
