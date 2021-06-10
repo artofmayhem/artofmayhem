@@ -1,6 +1,14 @@
-Welcome to my projects page. This is where some of my favorite projects that I've worked on are linked and discussed. There have been so many learnings along the way on my path to becoming a fantastic developer. These are a few of my favorites...
+Welcome to my projects page. This is where some of my favorite projects that I've worked on are linked and discussed. There have been so many learnings along the way on my path to becoming a fantastic developer. 
 
-(all projects represented here are 100% coded by me)
+I've made these projects using these languages: 
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
+
+
+
+
+
+These are a few of my favorite deploys and their corresponding repository...
 
 1. Stark Labworks - This Marvel API and Weather API project was built using react and bootstrap and using three different api calls. The first two calls are made to weatherapi.com and displays location details based on user input. It also displays, current conditions as well as the astronomy report. The third api call is a search function that displays any marvel character along with appearances from the Marvel APi. This project was fun because I taught myself how to overcome the race condition caused by using useEffect. 
 
@@ -58,6 +66,6 @@ https://github.com/artofmayhem/sonvr-design
  https://lambdapizza.netlify.app
  https://github.com/artofmayhem/web-sprint-challenge-single-page-applications
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
+
 
 
