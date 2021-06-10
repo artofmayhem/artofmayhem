@@ -4,6 +4,8 @@ Hi My name is Tony!
 I'm a fullstack developer based in Honolulu. Welcome to my projects page. This is where some of my favorite projects that I've worked on are linked and discussed. There have been so many learnings along the way on my path to becoming a fantastic developer. 
 
  These are the languages that I'm currently using for web development!
+ 
+ 
   [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
 
  
