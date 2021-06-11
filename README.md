@@ -48,17 +48,6 @@ https://anywhere-fitness-club.vercel.app/
 https://github.com/waterMyPlants-BuildWeek/front-end
 
 
-### Water My Plants App - 🌱
-• This app allows users to signup/ login and create cards to monitor their plant's watering cycles. 
-
-• Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
-
-• This project i learned conditional rendering of elements and components based on current state. 
-
-https://watermy-plants.netlify.app/
-
-https://github.com/waterMyPlants-BuildWeek/front-end
-
 
 ### Adidas Product Portal - 👟
 • This project is a full CRA build using authentication, and form submission on the front end.
@@ -72,6 +61,22 @@ https://github.com/waterMyPlants-BuildWeek/front-end
 https://adidasproductportal.vercel.app/
 
 https://github.com/artofmayhem/web-module-project-client-auth
+
+
+
+### Water My Plants App - 🌱
+• This app allows users to signup/ login and create cards to monitor their plant's watering cycles. 
+
+• Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
+
+• This project i learned conditional rendering of elements and components based on current state. 
+
+https://watermy-plants.netlify.app/
+
+https://github.com/waterMyPlants-BuildWeek/front-end
+
+
+
 
 
 
