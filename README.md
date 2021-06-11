@@ -42,8 +42,7 @@ On this project I handled
 - This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
 - Technolgies used react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe. 
 
-https://anywhere-fitness-club.vercel.app/
-
+https://anywhere-fitness-club.vercel.app/ <br/>
 https://github.com/waterMyPlants-BuildWeek/front-end
 
 
@@ -54,8 +53,7 @@ https://github.com/waterMyPlants-BuildWeek/front-end
 - Frontend Stack: react, material ui, bootstrap, on the front end. 
 - Backend Stack: nodejs with express and SQL while building my own custom middleware.
   
-https://adidasproductportal.vercel.app/
-
+https://adidasproductportal.vercel.app/<br/>
 https://github.com/artofmayhem/web-module-project-client-auth
 
 
@@ -65,8 +63,7 @@ https://github.com/artofmayhem/web-module-project-client-auth
 - Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
 - This project i learned conditional rendering of elements and components based on current state. 
 
-https://watermy-plants.netlify.app/
-
+https://watermy-plants.netlify.app/ <br/>
 https://github.com/waterMyPlants-BuildWeek/front-end
 
 
