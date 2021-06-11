@@ -39,9 +39,8 @@
 ### Anywhere Fitness Club -  💪🏽
 On this project I handled 
 
-• This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
-
-• Technolgies used react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe. 
+- This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
+- Technolgies used react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe. 
 
 https://anywhere-fitness-club.vercel.app/
 
@@ -50,13 +49,10 @@ https://github.com/waterMyPlants-BuildWeek/front-end
 
 
 ### Adidas Product Portal - 👟
-• This project is a full CRA build using authentication, and form submission on the front end.
- 
-•The user can login using the the username: lambda password: school to see the products available to the stores. I used the coding and design practices found at adidas' github as the basic set of tenets for design. 
-
-• The stack used for the front end development was react, material ui, bootstrap, on the front end. 
-
-• Backend is build in nodejs with express and SQL while building my own custom middleware.
+- This project is a full CRA build using authentication, and form submission on the front end.
+- The user can login using the the username: lambda password: school to see the products available to the stores. 
+- Frontend Stack: react, material ui, bootstrap, on the front end. 
+- Backend Stack: nodejs with express and SQL while building my own custom middleware.
   
 https://adidasproductportal.vercel.app/
 
@@ -65,11 +61,9 @@ https://github.com/artofmayhem/web-module-project-client-auth
 
 
 ### Water My Plants App - 🌱
-• This app allows users to signup/ login and create cards to monitor their plant's watering cycles. 
-
-• Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
-
-• This project i learned conditional rendering of elements and components based on current state. 
+- This app allows users to signup/ login and create cards to monitor their plant's watering cycles. 
+- Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
+- This project i learned conditional rendering of elements and components based on current state. 
 
 https://watermy-plants.netlify.app/
 
