@@ -17,8 +17,8 @@
   
 Technologies: 
 
-  • Languages: HTML5, CSS, SASS, Javascript, C#, C
-  • Frontend: React, React Native, Material UI, Storybook, RTL, Yup, Cypress
+  - Languages: HTML5, CSS, SASS, Javascript, C#, C
+  - Frontend: React, React Native, Material UI, Storybook, RTL, Yup, Cypress
   - Backend: Nodejs, Express, SQL, custom hooks
   - State Management: Redux, Redux-Thunk, Context API
   - Animation: Threejs, Drei, Gsap, Animejs, 
