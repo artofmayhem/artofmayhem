@@ -2,7 +2,7 @@
  ## Hi My name is Tony! ##
 
 
-### I'm a fullstack developer based in Honolulu. Welcome to my projects page. 💻
+### I'm a fullstack developer based in Honolulu. Welcome to my projects page. 
 
 There have been so many lessons on my path to becoming a web developer. This is a small part of my journey so far. 🚀🚀🚀
  
@@ -15,7 +15,7 @@ There have been so many lessons on my path to becoming a web developer. This is 
   [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
   
   
-### Technologies: 
+### Technologies: 💻
 
   - Languages: HTML5, CSS, SASS, SCSSS, Javascript, C#, C
   - Frontend: React, React Native, Material UI, Storybook, RTL, Yup, Cypress
@@ -27,10 +27,10 @@ There have been so many lessons on my path to becoming a web developer. This is 
                  
 
 
-### Connect
+### Connect 📥
 - *[LinkedIn](https://www.linkedin.com/in/tony-miller-b13ba810/)*
 
-### Blog
+### Blog ✍🏼
 - *[Medium](https://anthony-8789.medium.com/)*
  
 
