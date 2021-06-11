@@ -19,10 +19,14 @@
 ###
  
 
-### These are a few of my favorite deploys and their corresponding repository...
+### These are a few of my favorite deploys and their corresponding repositories...
 
 ### Anywhere Fitness Club -  
-This was a four person team build. On this project I handle initial project set up, overall style and design, handling CRUD application for the signup, login, and form submission utilizing redux to manage state. I also pair coded the scaffolding with my partner to layout the initial redux so that we both understood the initial set up and where everything needed to be so that we could access the parts we needed to in full awareness of the layout. The site was built using react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe.
+On this project I handled 
+○ This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
+○ Work that I did: initial project set up, overall style and design, handling CRUD application for the signup, login, and form submission utilizing redux to manage state. Pair coded the scaffolding with my partner to layout the initial redux 
+○ I learned how to handle async issues with redux, handling of signup and login through redux and more advanced conditional rendering 
+○ Technolgies used react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe. 
 
 https://anywhere-fitness-club.vercel.app/
 
