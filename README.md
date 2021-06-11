@@ -17,7 +17,7 @@ There have been so many lessons on my path to becoming a web developer. This is 
   
 ### Technologies: 💻
 
-  - Languages: HTML5, CSS, SASS, SCSSS, Javascript, C#, C
+  - Languages: HTML5, CSS, SASS, SCSS, Javascript, C#, C
   - Frontend: React, React Native, Material UI, Storybook, RTL, Yup, Cypress
   - Backend: Nodejs, Express, SQL, custom hooks
   - State Management: Redux, Redux-Thunk, Context API
