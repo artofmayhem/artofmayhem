@@ -15,12 +15,16 @@
   [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
   
   
-Tech stack: 
+Technologies: 
 
   • Languages: HTML5, CSS, SASS, Javascript, C#, C
-  • Libraries: Frontend => React, React Native, Material UI, Storybook, Threejs, Drei, Gsap, 
-  Animejs, Axios, Bootstrap, Redux, React-Router, React-Thunk, Context, RTL, Yup, Cypress
-                Backend =>  Nodejs, Express, SQL custom hooks, router, styled components,  custom middleware 🚀🚀🚀
+  • Frontend: React, React Native, Material UI, Storybook, RTL, Yup, Cypress
+  - Backend: Nodejs, Express, SQL, custom hooks
+  - State Management: Redux, Redux-Thunk, Context API
+  - Animation: Threejs, Drei, Gsap, Animejs, 
+  - Dependencies: Axios, Bootstrap, React-Router
+  <br/>
+                 🚀🚀🚀
 ###
  
 
