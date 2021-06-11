@@ -23,9 +23,13 @@
 
 ### Anywhere Fitness Club -  
 On this project I handled 
+
 ○ This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
+
 ○ Work that I did: initial project set up, overall style and design, handling CRUD application for the signup, login, and form submission utilizing redux to manage state. Pair coded the scaffolding with my partner to layout the initial redux 
+
 ○ I learned how to handle async issues with redux, handling of signup and login through redux and more advanced conditional rendering 
+
 ○ Technolgies used react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe. 
 
 https://anywhere-fitness-club.vercel.app/
