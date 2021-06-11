@@ -3,8 +3,6 @@
 
 
 ### I'm a fullstack developer based in Honolulu. Welcome to my projects page. 💻
-
- This is where some of my favorite projects that I've worked on are linked and discussed. There have been so many learnings along the way on my path to becoming a fantastic developer. ###
  
  
  [![Tony's github stats](https://github-readme-stats.vercel.app/api?username=artofmayhem&count_private=true&show_icons=true&theme=prussian&hide_rank=false)](https://github.com/artofmayhem/github-readme-stats)
