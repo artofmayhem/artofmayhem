@@ -15,7 +15,7 @@
   [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
   
   
-Technologies: 
+### Technologies: 
 
   - Languages: HTML5, CSS, SASS, Javascript, C#, C
   - Frontend: React, React Native, Material UI, Storybook, RTL, Yup, Cypress
@@ -26,6 +26,12 @@ Technologies:
   <br/>
                  🚀🚀🚀
 ###
+
+### Connect
+- *[LinkedIn](https://www.linkedin.com/in/tony-miller-b13ba810/)*
+
+### Blog
+- *[Medium](https://anthony-8789.medium.com/)*
  
 
 ### These are a few of my favorite deploys and their corresponding repositories...
