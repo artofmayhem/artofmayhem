@@ -36,7 +36,9 @@ https://github.com/waterMyPlants-BuildWeek/front-end
 ### Water My Plants App - 
 • This app allows users to signup/ login and create cards to monitor their plant's watering cycles. 
 
-• Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. This project i learned conditional rendering of elements and components based on current state. 
+• Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
+
+• This project i learned conditional rendering of elements and components based on current state. 
 
 https://watermy-plants.netlify.app/
 
