@@ -21,7 +21,7 @@
 
 ### These are a few of my favorite deploys and their corresponding repositories...
 
-### Anywhere Fitness Club -  
+### Anywhere Fitness Club -   🤬 
 On this project I handled 
 
 • This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
@@ -33,7 +33,7 @@ https://anywhere-fitness-club.vercel.app/
 https://github.com/waterMyPlants-BuildWeek/front-end
 
 
-### Water My Plants App - 
+### Water My Plants App -  🤬 
 • This app allows users to signup/ login and create cards to monitor their plant's watering cycles. 
 
 • Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
@@ -45,7 +45,7 @@ https://watermy-plants.netlify.app/
 https://github.com/waterMyPlants-BuildWeek/front-end
 
 
-### Street Art Magazine - 
+### Street Art Magazine -  🤬 
 • This project is a full CRA build using authentication, and form submission on the front end.
 
 •Technologies used were react, react router, material ui, and a node.js api server that I taught myself and designed.
@@ -54,7 +54,7 @@ https://streetartmagazine.netlify.app
 
 https://github.com/artofmayhem/Auth-Friends
 
-### Adidas Product Portal - 
+### Adidas Product Portal -  🤬 
 • This project is a full CRA build using authentication, and form submission on the front end.
  
 •The user can login using the the username: lambda password: school to see the products available to the stores. I used the coding and design practices found at adidas' github as the basic set of tenets for design. 
