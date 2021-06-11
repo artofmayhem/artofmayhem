@@ -37,8 +37,6 @@ There have been so many lessons on my path to becoming a web developer. This is 
 ### These are a few of my favorite deploys and their corresponding repositories...
 
 ### Anywhere Fitness Club -  💪🏽
-On this project I handled 
-
 - This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
 - Technolgies used react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe. 
 
