@@ -60,15 +60,6 @@ https://watermy-plants.netlify.app/
 https://github.com/waterMyPlants-BuildWeek/front-end
 
 
-### Street Art Magazine - 🎨
-• This project is a full CRA build using authentication, and form submission on the front end.
-
-•Technologies used were react, react router, material ui, and a node.js api server that I taught myself and designed.
-
-https://streetartmagazine.netlify.app
-
-https://github.com/artofmayhem/Auth-Friends
-
 ### Adidas Product Portal - 👟
 • This project is a full CRA build using authentication, and form submission on the front end.
  
