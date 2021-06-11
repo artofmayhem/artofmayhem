@@ -44,6 +44,8 @@ https://github.com/waterMyPlants-BuildWeek/front-end
 
 
 ### Street Art Magazine - 
+• This project is a full CRA build using authentication, and form submission on the front end.
+
 •Technologies used were react, react router, material ui, and a node.js api server that I taught myself and designed.
 
 https://streetartmagazine.netlify.app
@@ -51,9 +53,8 @@ https://streetartmagazine.netlify.app
 https://github.com/artofmayhem/Auth-Friends
 
 ### Adidas Product Portal - 
-• This project is a full CRA build using authentication, and form submission on the front end, 
+• This project is a full CRA build using authentication, and form submission on the front end.
  
-
 •The user can login using the the username: lambda password: school to see the products available to the stores. I used the coding and design practices found at adidas' github as the basic set of tenets for design. 
 
 • The stack used for the front end development was react, material ui, bootstrap, on the front end. 
