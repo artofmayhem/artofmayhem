@@ -23,6 +23,7 @@ There have been so many lessons on my path to becoming a web developer. This is 
   - State Management: Redux, Redux-Thunk, Context API
   - Animation: Threejs, Drei, Gsap, Animejs, 
   - Dependencies: Axios, Bootstrap, React-Router
+  - Currently Learning: Typescript, Nextjs
   <br/>
                  
 
