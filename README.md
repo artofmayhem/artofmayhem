@@ -36,42 +36,27 @@ There have been so many lessons on my path to becoming a web developer. This is 
 
 ### These are a few of my favorite deploys and their corresponding repositories...
 
+### Scribble Stadium
+- This is enterprise level application is an online gaming platform that will allow Parents to sign their children up for a number of games that are deigned to stimulate the imagination while avoiding constant screen time through clevely devised gaming interface. Scribble Stadium allows users to read a story starter and, over a 7 day period, allows the child to create their own ending and create a drawing. These assets will be paired with another team mate to "battle" other teams for votes and wins. 
+- As a Team Project Manager for this project I was tasked with taking the project from a broken state and reorganizing the code base, cleaning up deprecated code, testing and planning all work necessary to put the project back on track. 
+- I contributed to *[documentation](https://github.com/BloomTech-Labs/scribble-stadium-fe/blob/feature/adding-route-documentation/DOCUMENTATION/ROUTING.md)* with a route mapping and status of all current routes along with planning notes for future potential usage for legacy code. 
+- Technologies include: React, Redux, LESS, GSAP, Docker, AWS
+
+Code: https://github.com/BloomTech-Labs/scribble-stadium-fe
+
+Code: 
+
+### Grubspace 
+- This fullstack build utlilzes both 3rd party API and custom Node.js backend to allow users to experience many aspects of food culture. From random fun facts, to recipes, nutritional help, wine pairings, and their own recipe box to store beloved family recipes, Grubspace is an application built for today's hungry users! 
+- Technologies used include: React, Redux, Redux-logger, SCSS, TailwindCSS, GSAP, Nodejs, Expressjs, and Postgres
+
+Deploy: https://grubspace.netlify.app/<br/>
+Code: https://github.com/artofmayhem/grubspace-deploy
+
+
 ### Anywhere Fitness Club -  💪🏽
 - This App allows for two portals: User can signup, login, signup for and withdraw from classes and make stripe payment from a shopping cart. Instructors can perform CRUD activities on created classes
-- Technolgies used react, redux, styled styled components, bootstrap, scss, yup, cyprerss and stripe. 
+- Technolgies used React, Redux, styled styled components, Bootstrap, SCSS, yup, Cypress and Stripe. 
 
-https://anywhere-fitness-club.vercel.app/ <br/>
-https://github.com/waterMyPlants-BuildWeek/front-end
-
-
-
-### Adidas Product Portal - 👟
-- This project is a full CRA build using authentication, and form submission on the front end.
-- The user can login using the the username: lambda password: school to see the products available to the stores. 
-- Frontend Stack: react, material ui, bootstrap, on the front end. 
-- Backend Stack: nodejs with express and SQL while building my own custom middleware.
-  
-https://adidasproductportal.vercel.app/<br/>
-https://github.com/artofmayhem/web-module-project-client-auth
-
-
-
-### Water My Plants App - 🌱
-- This app allows users to signup/ login and create cards to monitor their plant's watering cycles. 
-- Technologies utilized for this build included storybook, material ui, bootstrap, and gsap. 
-- This project i learned conditional rendering of elements and components based on current state. 
-
-https://watermy-plants.netlify.app/ <br/>
-https://github.com/waterMyPlants-BuildWeek/front-end
-
-
-
-
-
-
- 
-
- 
-
-
-
+Deploy: https://anywhere-fitness-club.vercel.app/ <br/>
+Code: https://github.com/waterMyPlants-BuildWeek/front-end
