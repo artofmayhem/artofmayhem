@@ -12,7 +12,7 @@ There have been so many lessons on my path to becoming a web developer. This is 
 ### These are the languages that I'm currently using for web development!
  
  
-  [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem&layout=compact&langs_count=10)](https://github.com/artofmayhem)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artofmayhem)](https://github.com/artofmayhem/github-readme-stats)
   
   
 ### Technologies: 💻
