@@ -6,7 +6,7 @@
 
 There have been so many lessons on my path to becoming a web developer. This is a small part of my journey so far. 🚀🚀🚀
  
- [![Tony's github stats](https://github-readme-stats.vercel.app/api?username=artofmayhem&count_private=true&show_icons=true&theme=prussian&hide_rank=false)](https://github.com/artofmayhem/github-readme-stats)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=artofmayhem1)](https://github.com/anuraghazra/github-readme-stats)
   
 
 ### These are the languages that I'm currently using for web development!
